@@ -1,0 +1,109 @@
+html{
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+.contact{
+    background-color: rgb(26, 26, 198);
+    width: 250px;
+    border-radius: 10px;
+    padding: 25px 25px;
+    margin: 0px 500px;
+}
+.footer1 p{
+    color: white;
+}
+.footer h2{
+    color: white;
+}
+.footer{
+    padding: 300px 100px;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.spacenav a{
+    gap: 75px;
+    text-decoration: none;
+    color: rgb(6, 71, 168);
+    padding-top: 50px;
+    position: relative;
+    top: 12px;
+}
+.bg-light{
+    height: 500px;
+}
+.container-fluid{
+
+    height: 730px;
+
+}
+.container-fluid img{
+    width: auto;
+    height: auto;
+    background-size: cover;
+}
+.backg-metier{
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    height: 700px;
+    position: relative;
+    bottom: 670px; 
+    left: 170px;
+}
+.metmet{
+    display: inline-flex ;
+    gap: 250px;
+    position: relative;
+    bottom: 2px;
+    left: 250px;
+    list-style: none;
+}
+.metier{
+text-align: center;
+}
+.para-met{
+text-align: center;
+}
+.backg1{
+    background-image: url(image/image\ 1.jpg);
+    margin-top: -500px;
+}
+.col1{
+margin-left: 200px;
+
+}
+.parto{
+    background-image: url(image/parto.jpg);
+}
+.teamimg{
+    position: relative;
+    left:50%;
+}
+.backgco{
+    background-color: aquamarine;
+}
+.backgcoo{
+    background-color: rgb(189, 189, 189);
+}
+.distinction h1 p{
+    color: white;
+}
+.contactus{
+    position: relative;
+    bottom: 50px;
+}
+.winner{
+    position: relative;
+    left: 75px;
+    bottom: 50px;
+}
